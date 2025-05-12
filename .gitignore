@@ -1,0 +1,14 @@
+*.o
+*.so
+*.dylib
+*.out
+*.dSYM
+tags
+bin/*
+!bin/.gitkeep
+obj/*
+!obj/.gitkeep
+external/*
+!external/install_deps.sh
+*.swp
+*.swo
